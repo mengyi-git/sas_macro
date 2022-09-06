@@ -26,4 +26,4 @@ will be transposed into
 | 2  | 4     |          |           |
 
 ## Calculate age
-Sara Adams and Chris Colby wrote an [article](https://www.lexjansen.com/wuss/2009/cod/COD-Adams.pdf) on how to accurately calculate interger and continuous age. The macro can be found in the appendix.  
+Sara Adams and Chris Colby wrote an [article](https://www.lexjansen.com/wuss/2009/cod/COD-Adams.pdf) on how to accurately calculate interger and continuous age. The macro can be found in their appendix.  
