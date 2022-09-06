@@ -2,6 +2,11 @@
 
 Collection of SAS macros
 
+## List variables 
+`%wvlist()` make lists of variables that appear in a longitudinal dataset. More details can be found in the comment section of the file.
+
+The `%wvlist()' macro came with some earlier version of the RAND HRS Longitudinal File. While the data files are still available in RAND HRS Archived Data Products, the macro seems no longer part of the data files.
+
 ## Reshape wide to long
 
 There are multiple ways to transpose data. The `%multilong()` macro is inspired by the macro method mentioned [here](http://easysas.blogspot.com/2011/01/reshape-data-set-from-wide-to-long.html). It uses the `%wvlist()` macro supplied with the [RAND HRS Longitudinal File](https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/dataprod/hrs-data.html). 
