@@ -31,4 +31,4 @@ will be transposed into
 | 2  | 4     |          |           |
 
 ## Calculate age
-Sara Adams and Chris Colby wrote an [article](https://www.lexjansen.com/wuss/2009/cod/COD-Adams.pdf) on how to accurately calculate interger and continuous age. The macro can be found in their appendix.  
+`calAge.sas' combines the two macros written by Sara Adams and Chris Colby who wrote an [article](https://www.lexjansen.com/wuss/2009/cod/COD-Adams.pdf) on how to accurately calculate interger and continuous age. Their macros can be found in Appendix A of the article.
