@@ -5,7 +5,7 @@ Collection of SAS macros
 ## List variables 
 `%wvlist()` make lists of variables that appear in a longitudinal dataset. More details can be found in the comment section of the file.
 
-The `%wvlist()' macro came with some earlier version of the RAND HRS Longitudinal File. While the data files are still available in RAND HRS Archived Data Products, the macro seems no longer part of the data files.
+The `%wvlist()` macro came with some earlier version of the RAND HRS Longitudinal File. While the data files are still available in RAND HRS Archived Data Products, the macro seems no longer part of the data files.
 
 ## Reshape wide to long
 
